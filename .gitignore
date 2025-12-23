@@ -1,0 +1,5 @@
+dataset/
+encodings.pkl
+encodings.pickle
+__pycache__/
+*.pyc
