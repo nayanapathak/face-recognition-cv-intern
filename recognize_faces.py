@@ -30,7 +30,7 @@ while True:
     ret, frame = video.read()
     if not ret:
         break
-    # ✅ FIX: Flip frame horizontally (mirror correction)
+    #  FIX: Flip frame horizontally (mirror correction)
     frame = cv2.flip(frame, 1)
 
     # Resize frame for speed & accuracy balance
