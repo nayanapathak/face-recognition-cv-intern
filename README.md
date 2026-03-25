@@ -7,7 +7,6 @@ This project implements a real-time face recognition system using a webcam to de
 
 Purpose
 
-This project was developed as part of Computer Vision Intern Assignment 2 to demonstrate understanding of:
 
 I.Computer vision fundamentals
 II.Face detection and recognition
